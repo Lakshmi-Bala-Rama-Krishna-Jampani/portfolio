@@ -149,7 +149,7 @@ export function Contact() {
           </h2>
           <div className="w-24 h-1.5 bg-gradient-to-r from-primary-600 via-purple-600 to-pink-600 mx-auto mb-8 rounded-full shadow-lg"></div>
           <p className="text-base md:text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto font-normal leading-relaxed">
-            I'm always open to discussing new opportunities, innovative projects, or just having a chat about technology.
+            I&apos;m always open to discussing new opportunities, innovative projects, or just having a chat about technology.
           </p>
         </motion.div>
 

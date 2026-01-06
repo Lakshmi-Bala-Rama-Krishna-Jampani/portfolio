@@ -103,7 +103,7 @@ export function Hero() {
               className="text-xl md:text-2xl lg:text-3xl xl:text-4xl font-semibold mb-6 leading-[1.5] font-display tracking-tight"
             >
               <span className="block text-gray-900 dark:text-white mb-1">
-                Hi, I'm
+                Hi, I&apos;m
               </span>
               <span className="block gradient-text overflow-visible whitespace-nowrap">
                 Lakshmi Bala Rama Krishna Jampani

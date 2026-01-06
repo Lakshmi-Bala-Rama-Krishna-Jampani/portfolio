@@ -81,7 +81,7 @@ export function About() {
               Dedicated Software Engineer
             </h3>
             <p className="text-sm md:text-base text-gray-700 dark:text-gray-300 mb-4 leading-relaxed font-normal">
-              I'm a dedicated and impact-driven Software Engineer with proven experience in building 
+              I&apos;m a dedicated and impact-driven Software Engineer with proven experience in building 
               SaaS platforms from scratch as part of a founding team. My expertise spans both frontend 
               and backend development, with a strong focus on creating scalable, efficient solutions.
             </p>
@@ -92,9 +92,9 @@ export function About() {
               including Docker, Git, and AWS for containerization, version control, and cloud infrastructure.
             </p>
             <p className="text-sm md:text-base text-gray-700 dark:text-gray-300 leading-relaxed font-normal">
-              Beyond coding, I'm actively involved in hiring, guiding, and mentoring engineers and 
+              Beyond coding, I&apos;m actively involved in hiring, guiding, and mentoring engineers and 
               interns, including campus recruitment from top universities like PES University and MIT 
-              Bangalore. I'm eager to leverage my technical expertise, product ownership, and leadership 
+              Bangalore. I&apos;m eager to leverage my technical expertise, product ownership, and leadership 
               mindset to drive innovation and business growth.
             </p>
           </motion.div>
